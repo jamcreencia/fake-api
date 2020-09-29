@@ -143,5 +143,8 @@
       }
     },
     "error": null
+  },
+  "vwfs": {
+    "redirect_url": "https://www.google.co.uk/"
   }
 }
