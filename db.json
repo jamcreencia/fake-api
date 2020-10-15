@@ -146,5 +146,16 @@
   },
   "vwfs": {
     "redirect_url": "https://www.google.co.uk/"
+  },
+  "quoteError": {
+    "pcp": {
+      "error": "Not available"
+    },
+    "hp": {
+      "error": "Not available"
+    }
+  },
+  "financeError": {
+    "error": "Not available"
   }
 }
