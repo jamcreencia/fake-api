@@ -115,25 +115,7 @@
       }
     },
     "pcp": {
-      "cash_deposit": {
-        "min": 0.0,
-        "max": 42799.0,
-        "default": 4579.9
-      },
-      "term": {
-        "error": "Defaults not available"
-      },
-      "annual_mileage": {
-        "min": 7000,
-        "max": 10000,
-        "values": [
-          7000,
-          8000,
-          9000,
-          10000
-        ],
-        "default": 10000
-      }
+      "error": "Defaults not available"
     },
     "error": null
   },
