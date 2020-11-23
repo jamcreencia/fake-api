@@ -121,14 +121,7 @@
         "default": 4579.9
       },
       "term": {
-        "min": 24,
-        "max": 48,
-        "values": [
-          24,
-          36,
-          48
-        ],
-        "default": 36
+        "error": "Defaults not available"
       },
       "annual_mileage": {
         "min": 7000,
